@@ -1,0 +1,4 @@
+com\kafka\example\initialsetup\SampleMsgTransformer.class
+com\kafka\example\resource\ExampleRestService.class
+com\kafka\example\dto\SampleClassToCreateJsonResponse.class
+com\kafka\example\dto\SampleClassToCreateJsonResponse$SampleClassToCreateJsonResponseBuilder.class
